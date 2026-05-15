@@ -1,6 +1,12 @@
 # Grama-Vaxi (Healthcare)
 
 Grama-Vaxi is an Android application designed to provide healthcare management and support, with a specific focus on animal health and community alerts. It leverages modern Android technologies to provide a robust and user-friendly experience.
+## Screenshots
+<img width="335" height="753" alt="Screenshot 2026-05-15 170640" src="https://github.com/user-attachments/assets/5bdd3dd3-e3f6-47eb-82f9-65f570a31112" />
+<img width="337" height="751" alt="Screenshot 2026-05-15 170727" src="https://github.com/user-attachments/assets/829a9a8e-5d46-4129-b2d9-9da9308510a7" />
+
+
+
 
 ## Features
 
