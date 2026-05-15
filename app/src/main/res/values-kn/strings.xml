@@ -1,0 +1,119 @@
+<resources>
+    <string name="app_name">ಗ್ರಾಮ-ವಾಕ್ಸಿ</string>
+    <string name="welcome">ಗ್ರಾಮ-ವಾಕ್ಸಿಗೆ ಸುಸ್ವಾಗತ</string>
+    <string name="farmer_registration">ರೈತರ ನೋಂದಣಿ</string>
+    <string name="name">ಹೆಸರು</string>
+    <string name="phone_number">ದೂರವಾಣಿ ಸಂಖ್ಯೆ</string>
+    <string name="village_name">ಗ್ರಾಮದ ಹೆಸರು</string>
+    <string name="register">ನೋಂದಾಯಿಸಿ</string>
+    <string name="home">ಮುಖಪುಟ</string>
+    <string name="animals">ಪ್ರಾಣಿಗಳು</string>
+    <string name="calendar">ಕ್ಯಾಲೆಂಡರ್</string>
+    <string name="inbox">ಇನ್‌ಬಾಕ್ಸ್</string>
+    <string name="alerts">ಎಚ್ಚರಿಕೆಗಳು</string>
+    <string name="profile">ಪ್ರೊಫೈಲ್</string>
+    <string name="add_animal">ಪ್ರಾಣಿ ಸೇರಿಸಿ</string>
+    <string name="animal_name">ಪ್ರಾಣಿಯ ಹೆಸರು</string>
+    <string name="animal_type">ಪ್ರಾಣಿಯ ವಿಧ</string>
+    <string name="breed">ತಳಿ</string>
+    <string name="gender">ಲಿಂಗ</string>
+    <string name="age">ವಯಸ್ಸು</string>
+    <string name="health_notes">ಆರೋಗ್ಯ ಟಿಪ್ಪಣಿಗಳು</string>
+    <string name="save">ಉಳಿಸಿ</string>
+    <string name="vaccination_date">ಲಸಿಕೆ ದಿನಾಂಕ</string>
+    <string name="next_vaccination">ಮುಂದಿನ ಲಸಿಕೆ</string>
+    <string name="upcoming_shots">ಮುಂಬರುವ ಹೊಡೆತಗಳು</string>
+    <string name="disease_report">ರೋಗ ವರದಿ</string>
+    <string name="symptoms">ಲಕ್ಷಣಗಳು</string>
+    <string name="submit_report">ವರದಿ ಸಲ್ಲಿಸಿ</string>
+    <string name="upcoming_vaccinations">ಮುಂಬರುವ ಲಸಿಕೆಗಳು</string>
+    <string name="total_animals">ಒಟ್ಟು ಪ್ರಾಣಿಗಳು</string>
+    <string name="disease_alerts">ರೋಗದ ಎಚ್ಚರಿಕೆಗಳು</string>
+    <string name="government_camps">ಸರ್ಕಾರಿ ಶಿಬಿರಗಳು</string>
+    <string name="kannada">ಕನ್ನಡ</string>
+    <string name="english">ಇಂಗ್ಲಿಷ್</string>
+    <string name="language_settings">ಭಾಷಾ ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+
+    <string name="namaste">ನಮಸ್ತೆ, %1$s</string>
+    <string name="quick_actions">ತ್ವರಿತ ಕ್ರಮಗಳು</string>
+    <string name="vaccination_camp">ವ್ಯಾಕ್ಸಿನೇಷನ್ ಕ್ಯಾಂಪ್</string>
+    <string name="temple_square">ಟೆಂಪಲ್ ಸ್ಕ್ವೇರ್</string>
+    <string name="livestock_checkup">ಲೀವೆಸ್ಟಾಕ್ ಚೆಕ್ಪ್</string>
+    <string name="village_hall">ವಿಲೇಜ್ ಹಾಲ್</string>
+    <string name="no_animals_yet">ಇನ್ನೂ ಯಾವುದೇ ಪ್ರಾಣಿಗಳನ್ನು ನೋಂದಾಯಿಸಲಾಗಿಲ್ಲ</string>
+    <string name="no_upcoming_vaccinations">ಮುಂಬರುವ ಯಾವುದೇ ಲಸಿಕೆಗಳನ್ನು ನಿಗದಿಪಡಿಸಲಾಗಿಲ್</string>
+    <string name="no_camps_yet">ಇನ್ನೂ ಯಾವುದೇ ಸರ್ಕಾರಿ ಶಿಬಿರಗಳನ್ನು ಘೋಷಿಸಿಲ್ಲ</string>
+    <string name="add_animal_photo">ಪ್ರಾಣಿಯ ಫೋಟೋ ಸೇರಿಸಿ</string>
+    <string name="cow">ಹಸು</string>
+    <string name="goat">ಮೇಕೆ</string>
+    <string name="sheep">ಕುರಿ</string>
+    <string name="buffalo">ಎಮ್ಮೆ</string>
+    <string name="report_health_issue">ಆರೋಗ್ಯ ಸಮಸ್ಯೆಯನ್ನು ವರದಿ ಮಾಡಿ</string>
+    <string name="select_animal">ಪ್ರಾಣಿಯನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="logout">ಲಾಗ್ಔಟ್</string>
+    <string name="report_submitted">ವರದಿ ಯಶಸ್ವಿಯಾಗಿ ಸಲ್ಲಿಸಲಾಗಿದೆ</string>
+    <string name="submitted">ಸಲ್ಲಿಸಲಾಗಿದೆ</string>
+    <string name="under_review">ಪರಿಶೀಲನೆಯಲ್ಲಿದೆ</string>
+    <string name="resolved">ಪರಿಹರಿಸಲಾಗಿದೆ</string>
+    <string name="no_reports">ಇನ್ನೂ ಯಾವುದೇ ವರದಿಗಳು ಸಲ್ಲಿಸಲಾಗಿಲ್ಲ</string>
+    <string name="delete_animal">ಪ್ರಾಣಿಯನ್ನು ಅಳಿಸಬೇಕೆ?</string>
+    <string name="delete_warning">ಈ ಪ್ರಾಣಿಯನ್ನು ಅಳಿಸಿದರೆ ರೋಗ ವರದಿಗಳು, ಲಸಿಕೆ ಇತಿಹಾಸ ಮತ್ತು ಇನ್‌ಬಾಕ್ಸ್ ದಾಖಲೆಗಳೂ ಅಳಿಸಲಾಗುತ್ತದೆ.</string>
+    <string name="cancel">ರದ್ದುಮಾಡಿ</string>
+    <string name="delete">ಅಳಿಸಿ</string>
+
+    <string name="animal_details">ಪ್ರಾಣಿಗಳ ವಿವರಗಳು</string>
+    <string name="add_medical_history">ವೈದ್ಯಕೀಯ ಇತಿಹಾಸವನ್ನು ಸೇರಿಸಿ</string>
+    <string name="basic_info">ಮೂಲ ಮಾಹಿತಿ</string>
+    <string name="vaccination_history">ಲಸಿಕೆ ಇತಿಹಾಸ (Offline)</string>
+    <string name="no_medical_records">ಯಾವುದೇ ವೈದ್ಯಕೀಯ ದಾಖಲೆಗಳು ಲಭ್ಯವಿಲ್ಲ.</string>
+    <string name="no_previous_reports">ಹಿಂದಿನ ಯಾವುದೇ ರೋಗ ವರದಿಗಳು ಕಂಡುಬಂದಿಲ್ಲ.</string>
+    <string name="no_notes">ಹಿಂದಿನ ಯಾವುದೇ ಟಿಪ್ಪಣಿಗಳು ಕಂಡುಬಂದಿಲ್ಲ.</string>
+    <string name="animal_not_found">ಪ್ರಾಣಿ ಕಂಡುಬಂದಿಲ್ಲ.</string>
+
+    <string name="camp_notification_title">ಮುಂಬರುವ ಸರ್ಕಾರಿ ಶಿಬಿರ!</string>
+    <string name="camp_notification_msg">ನೆನಪೋಲೆ: %1$s ಶಿಬಿರವು %2$s ರಲ್ಲಿ 3 ದಿನಗಳಲ್ಲಿ ನಡೆಯಲಿದೆ.</string>
+    <string name="vaccination_due_today_title">ಇಂದು ಲಸಿಕೆ ಹಾಕಬೇಕು</string>
+    <string name="vaccination_due_today_msg">%1$s (%2$s) ಗೆ ಇಂದು ಲಸಿಕೆ ಹಾಕಬೇಕು!</string>
+    <string name="vaccination_due_3days_title">ಮುಂಬರುವ ಲಸಿಕೆ</string>
+    <string name="vaccination_due_3days_msg">%1$s ಗೆ 3 ದಿನಗಳಲ್ಲಿ ಲಸಿಕೆ ಹಾಕಬೇಕು.</string>
+
+    <!-- Calendar Redesign Strings -->
+    <string name="nobivac">ನೋಬಿವ್ಯಾಕ್</string>
+    <string name="recombitek">ರೀಕಾಂಬಿಟೆಕ್</string>
+    <string name="canigen">ಕ್ಯಾನಿಜೆನ್</string>
+    <string name="vanguard">ವ್ಯಾಂಗಾರ್ಡ್</string>
+    <string name="hs">ಎಚ್ ಎಸ್</string>
+    <string name="days_to_go">ಇನ್ನೂ %1$d ದಿನಗಳು ಬಾಕಿ</string>
+    <string name="search_animals">ಪ್ರಾಣಿಗಳನ್ನು ಹುಡುಕಿ…</string>
+    <string name="shots_scheduled">%1$d ಲಸಿಕೆಗಳು ನಿಗದಿಯಾಗಿವೆ</string>
+
+    <!-- Photo Selection Strings -->
+    <string name="choose_image_source">ಚಿತ್ರ ಮೂಲವನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="camera">ಕ್ಯಾಮೆರಾ</string>
+    <string name="gallery">ಗ್ಯಾಲರಿ</string>
+    <string name="camera_permission_required">ಕ್ಯಾಮೆರಾ ಅನುಮತಿ ಅಗತ್ಯ</string>
+
+    <!-- Shared Camp Alert Strings -->
+    <string name="government_camp_alert">ಸರ್ಕಾರಿ ಶಿಬಿರ ಎಚ್ಚರಿಕೆ</string>
+    <string name="date">ದಿನಾಂಕ</string>
+    <string name="location">ಸ್ಥಳ</string>
+    <string name="doctor">ವೈದ್ಯರು</string>
+
+    <string name="doctor_arriving_temple">ವೈದ್ಯರು ನಾಳೆ ದೇವಸ್ಥಾನ ಮೈದಾನಕ್ಕೆ ಆಗಮಿಸುತ್ತಾರೆ</string>
+    <string name="free_vaccination_camp">ಗ್ರಾಮ ಪಂಚಾಯಿತಿ ಸಭಾಂಗಣದ ಹತ್ತಿರ ಉಚಿತ ಲಸಿಕಾ ಶಿಬಿರ.</string>
+    <string name="emergency_livestock_camp">ಮಾರ್ಕೆಟ್ ರಸ್ತೆಯಲ್ಲಿ ತುರ್ತು ಜಾನುವಾರು ಆರೋಗ್ಯ ಶಿಬಿರ.</string>
+    <string name="goat_sheep_drive">ಸಮುದಾಯ ಕೇಂದ್ರದಲ್ಲಿ ಕುರಿ ಮತ್ತು ಮೇಕೆ ಲಸಿಕೆ ಅಭಿಯಾನ.</string>
+    <string name="mobile_veterinary_unit">ನಾಳೆ ಬಸ್ ನಿಲ್ದಾಣದ ಬಳಿ ಮೊಬೈಲ್ ಪಶುವೈದ್ಯಕೀಯ ಘಟಕ ಆಗಮಿಸಲಿದೆ.</string>
+
+    <string name="temple_square_loc">ದೇವಸ್ಥಾನ ಮೈದಾನ</string>
+    <string name="village_panchayat_hall">ಗ್ರಾಮ ಪಂಚಾಯಿತಿ ಸಭಾಂಗಣ</string>
+    <string name="market_road">ಮಾರ್ಕೆಟ್ ರಸ್ತೆ</string>
+    <string name="community_center">ಸಮುದಾಯ ಕೇಂದ್ರ</string>
+    <string name="bus_stand">ಬಸ್ ನಿಲ್ದಾಣ</string>
+
+    <string name="dr_ramesh">ಡಾ. ರಮೇಶ್</string>
+    <string name="dr_kavya">ಡಾ. ಕಾವ್ಯ</string>
+    <string name="dr_suresh">ಡಾ. ಸುರೇಶ್</string>
+    <string name="dr_meena">ಡಾ. ಮೀನಾ</string>
+    <string name="dr_ravi">ಡಾ. ರವಿ</string>
+</resources>
